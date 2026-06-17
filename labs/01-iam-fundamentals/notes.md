@@ -74,5 +74,5 @@ IAM allows administrators to control who can access AWS resources and what actio
 ### Reflection
 
 This lab provided practical experience with the core IAM components used in AWS environments. Understanding the relationship between users, groups, policies and roles is fundamental for cloud security engineering and secure access management.
-
+![IAM User and Group Creation](screenshots/iam-user-group-created.png)
 
